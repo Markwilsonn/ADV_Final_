@@ -1,4 +1,4 @@
-print("=== STUDENT ENROLLMENT SYSTEM ===")
+print("Welcome to the updated enrollment system")
 
 name = input("Enter full name: ")
 address = input("Enter Address: ")
